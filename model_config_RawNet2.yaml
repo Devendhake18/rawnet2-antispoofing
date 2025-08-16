@@ -11,7 +11,7 @@ mg: 1
 
 #model-related
 model:
-  #margin: 2
+  margin: 2
   nb_samp: 64000
   first_conv: 128   # no. of filter coefficients 
   in_channels: 1
